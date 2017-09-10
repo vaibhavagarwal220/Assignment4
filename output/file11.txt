@@ -1,0 +1,308 @@
+File Name is input/penbr10.txt 
+5 : Copyright laws are changing all over the world, be sure to check
+6 : the copyright laws for your country before posting these files!!
+10 : electronic path open for the next readers.  Do not remove this.
+12 : *It must legally be the first thing seen when opening the book.*
+17 : **Etexts Readable By Both Humans and By Computers, Since 1971**
+45 : copyright notice is included.  Therefore, we usually do NOT keep any
+46 : of these books in compliance with any particular paper edition.
+62 : new copy has at least one byte more or less.
+69 : to get any etext selected, entered, proofread, edited, copyright
+70 : searched and analyzed, the copyright letters written, etc.  This
+75 : If these reach just 10% of the computerized population, then the
+81 : which is only ~5% of the present number of computer users.
+120 : for a more complete list of our various sites.
+151 : your copy of this etext, even if you got it for free from
+155 : you can distribute copies of this etext if you want to.
+171 : things, this means that no one owns a United States copyright
+172 : on or for this work, so the Project (and you!) can copy and
+174 : without paying copyright royalties.  Special rules, set forth
+175 : below, apply if you wish to copy and distribute this etext
+182 : things, Defects may take the form of incomplete, inaccurate or
+183 : corrupt data, transcription errors, a copyright or other
+184 : intellectual property infringement, a defective or damaged
+185 : disk or other etext medium, a computer virus, or computer
+205 : copy.  If you received it electronically, such person may
+206 : choose to alternatively give you a second opportunity to
+229 : You may distribute copies of this etext electronically, or by
+234 : [1]  Only give exact copies of it.  Among other things, this
+238 :      binary, compressed, mark-up, or proprietary form,
+252 :           no expense into plain ASCII, EBCDIC or equivalent
+257 :      [*]  You provide, or agree to also provide on request at
+258 :           no additional cost, fee or expense, a copy of the
+260 :           or other equivalent proprietary form).
+271 :      date you prepare (or were legally required to prepare)
+277 : free copyright licenses, and every other sort of contribution
+317 : is no other such place to pick up material."  I had read something of
+320 : in a boarding-house, where people cannot conceal their real
+327 : an establishment, was certainly sordid enough, and I hoped for better
+335 : yourself more or less in the kitchen, encompassed with culinary
+345 : this infirmity in order to possess herself of the secrets of her
+348 : She was a philosopher, on a matter-of-fact basis; she had been having
+355 : was a complete collection of "heads."  She flattered herself that she
+356 : knew at a glance where to pigeon-hole a new-comer, and if she made
+367 : patience with boarders who gave themselves airs.  "When people come
+370 : francs a day, tout compris, it comprises everything but the right to
+371 : look down upon the others.  But there are people who, the less they
+376 : and the two ladies, with the assistance of a couple of thick-waisted,
+379 : difference; for Celestine, the cook, had no pretension to be an
+400 : couches; of copious, wholesome, succulent dinners, conformable to the
+404 : wished to perfect myself in the French tongue, and I innocently
+412 : double gate in the middle, flanked by a couple of ancient massive
+416 : rickety little table of the same complexion, and three orange-trees,
+440 : metropolis.  M. Pigeonneau was a little lean man, with a large narrow
+452 : immediately recognised as a compatriot.  I had often seen him, or his
+462 : the top of his eye-glass, a somewhat solemn stare.  Presently,
+477 : gentleman in the hat appear in one of the open windows of the salon,
+485 : to make it proper that, as an older resident, I should exercise a
+486 : certain hospitality.  I said something to him, and he came and sat
+511 : "Well, what should you say, from what you have seen?" my companion
+536 : the United States myself; from New York city.  Many of our people
+547 : whether he had been long in Europe.
+554 : My companion turned his head again and looked at me--looked at me so
+564 : me.  "I'm travelling," he said, at last, "to please the doctors.
+574 : "It was a confession of weakness; they wanted me to stop plaguing
+579 : I assented to the general proposition of the inefficiency of doctors,
+580 : and asked my companion if he had been seriously ill.
+588 : "Well, I hope you both eat and sleep now," I said.
+602 : My companion waited a little.  "Sundays," he said at last.
+607 : years ago if I had spent my time travelling round Europe.  I was in a
+642 : yourself, amuse yourself, get well.  Travel about and see Europe.  At
+648 : presently, "YOU have got used to Europe any way!"
+659 : had come out into the garden, that he had an opportunity of making me
+663 : apparently by a paternal inclination to provide this young lady with
+665 : paths, looking about with no great complacency, as I imagined, at the
+668 : and the absence of a pretext.  "Mrs. Ruck--Miss Sophy Ruck," said my
+672 : fair face, a somnolent eye, and an elaborate coiffure.  Miss Sophy
+687 : "I should never dream of comparing it to a New York boarding-house,"
+701 : "We knew some people who had been here; they thought everything of
+702 : Madame Beaurepas," said Miss Sophy.  "They said she was a real
+711 : "Well, I must say I should think she would be, if she compares them
+714 : "Mother is always comparing," observed Miss Ruck.
+716 : "Of course I am always comparing," rejoined the elder lady.  "I never
+721 : Sophy, with courage.  And indeed I could see that she was a young
+724 : "You like the shops--that's what you like," her father affirmed.
+745 : conversation with Miss Ruck, who seemed perfectly able to play her
+752 : "Out of the other window, I hope," said I.
+754 : "Yes, one out of each window," she replied promptly.  "Father had
+762 : said to him that if he was restless in Paris he needn't hope for
+766 : pronounced these words, direct a glance of covert compassion toward
+768 : wife, and I saw only his back and his stooping, patient-looking
+780 : just passed through.  We have promised all the people to be back in
+797 : Europe."
+809 : "Well, I hope so," said Mrs. Ruck.
+838 : like an old-fashioned watch-chain.  That's the proper thing for that
+843 : "Look here, Sophy," her father urged, "you don't want that blue
+846 : "I do want it--I happen to want it."  And Sophy glanced at me with a
+859 : "I know what that means," remarked Mr. Ruck, as his companions moved
+865 : unhappy, but he was very good-natured.  "Well, they want to pick up
+881 : the same spring--there's not the same hopeful feeling.  You can see
+889 : compatriots.  But in spite of these diversions his time hung heavily
+890 : upon his hands.  I used sometimes to propose to him to take a walk;
+902 : fonder of locomotion than their companion, and I often met them in
+905 : old M. Pigeonneau, who possessed a high appreciation of their charms,
+944 : compliments to Mademoiselle Ruck, I hope that's not the way you do
+947 : "I don't pay compliments to Mademoiselle Ruck."
+958 : which is at all deplace.  They don't complain of anything; they don't
+976 : new lamp for the salon; vous alles voir cela.  She wishes to pay but
+977 : eleven francs a day for herself and her daughter, tout compris; and
+993 : always adopt the custom of the native families.  I think it my duty
+1002 : get it.  Very well, if you are impolite I will make a complaint of
+1014 : attitude seeming to produce in Miss Aurora neither sympathy nor
+1033 : parlour, being presented to her by his wife, who presumed on the
+1040 : Ruck's companions, and she had an air of quiet distinction which was
+1044 : house life was its social opportunities.  She had placed herself near
+1046 : opened in her lap, with the assistance of a large embroidered marker,
+1053 : stood wide open into the garden, and, inspired by the balmy darkness,
+1057 : fete developed itself, consisting of half-a-dozen red paper lanterns,
+1058 : hung about on the trees, and of several glasses of sirop, carried on
+1068 : impression, to put aside one which you may offer to the other young
+1073 : interview with Mrs. Church.  Through the open window I saw the latter
+1086 : stop, on the way to Appenzell.  I asked her if she didn't want to go
+1090 : The daughter of this accomplished woman now reappeared, in company
+1120 : "J'adore le sirop, moi."
+1131 : Sophy to me, explaining her companion's situation.
+1146 : "Well, I call that dreadful," her companion declared.  "I have heard
+1156 : "She's right down homesick," said Miss Sophy; "she's dying to go.  If
+1171 : "Dresden is really very nice, isn't it?" I asked of her companion.
+1173 : "It isn't nice if you happen to prefer New York," said Miss Sophy.
+1180 : long time in Europe?"
+1184 : "I call that wicked!" Miss Sophy declared.
+1186 : "You might be in a worse place," I continued.  "I find Europe very
+1189 : Miss Ruck gave a little laugh.  "I was saying that you wanted to pass
+1190 : for a European."
+1192 : "Yes, I want to pass for a Dalmatian."
+1197 : "Were you born in these countries?" I asked of her companion.
+1199 : "Oh, no; I came to Europe when I was a small child.  But I remember
+1202 : "Wait till you see it again.  It's just too lovely," said Miss Sophy.
+1210 : "Don't you think one can be tired of Europe?" Aurora asked,
+1226 : "You should go to Boston!" cried Miss Sophy.  "They speak splendidly
+1231 : "Have you been all over Europe," I asked--"in all the different
+1235 : is devoted to pensions.  We have lived, at one time or another, in
+1236 : every pension in Europe."
+1240 : "It's a delightful way of seeing Europe," Aurora rejoined, with her
+1246 : over Europe.  Last winter we were in Italy, and she discovered one at
+1256 : "Why does she live in them, then?" asked Miss Sophy, rather
+1259 : "Oh, because we are so poor; it's the cheapest way to live.  We have
+1280 : "Well, you've got a lovely figure, any way," pursued her companion.
+1288 : it.  I am very patriotic.  I try to copy them, though mamma has
+1331 : from Madame Beaurepas; I think I used to know some of your people.  I
+1334 : you think there is a great difference between the people one meets
+1335 : and the people one would like to meet?  Fortunately, sometimes,"
+1339 : days of ours?  What are its feelings, its opinions, its aspirations?
+1345 : the open page of her book and gave an intense, melancholy smile.
+1348 : yourself simply.  Have you come to Europe with any special design?"
+1352 : "Ah, I am glad to hear that.  You are gathering up a little European
+1358 : gallantly, dropping my eyes on my companion's learned volume.
+1361 : after all, like the Germans.  That is, for facts.  For opinions I by
+1362 : no means always go with them.  I form my opinions myself.  I am sorry
+1370 : in Europe."
+1410 : Although she herself seemed proof against discomposure, I found
+1428 : My companion laid her hand for an instant on my arm.  "My dear young
+1435 : Brutal indeed my proposition was, and Mrs. Church was not prepared to
+1436 : assent to it in this rough shape.  She dropped her eyes on her book,
+1448 : "Yes, we like Europe; we prefer it.  We like the opportunities of
+1449 : Europe; we like the REST.  There is so much in that, you know.  The
+1460 : -just to stop a little, to wait! I have seen so many changes.  I wish
+1466 : complete, but in order to offer a chair to Miss Aurora, who at this
+1497 : "You see we have acquired an insight into European life," the elder
+1498 : lady pursued.  "We have our place at many a European fireside.  We
+1507 : "I don't know what you ladies may have found at European firesides,"
+1511 : Mrs. Church got up, to acknowledge my compliment.  "We have spent
+1513 : an occasion in prospect.  We are to call upon some Genevese friends--
+1514 : the family of the Pasteur Galopin.  They are to go with us to the old
+1525 : to prepare for their visit to the Pasteur Galopin.
+1534 : communication was made me by Madame Beaurepas a couple of days later.
+1536 : to provide Celestine with a pair of light shoes.  I told her that, as
+1543 : "A lady who pays but five francs and a half shouldn't be too clever.
+1557 : travelling over Europe in search of one.  She would like a
+1573 : I developed my idea, without heeding this insinuation.  "She's a
+1586 : "I hope so!" I rejoined.
+1608 : the pension, after my lectures at the Academy, I went to partake of
+1625 : proprietor; one, in either case, would have helped me to identify the
+1631 : mind that their proprietors were a dusky, narrow-minded, unsociable
+1632 : company; plunging their roots into a superfluous past.  I
+1647 : shopping."
+1649 : "Are they shopping now?"
+1666 : "I hope the Herald is full of good news," I said.
+1676 : "I hope they haven't injured you," I said.
+1680 : increase the value of your property.  When mine catches, I suppose
+1707 : Yes, Chamouni is one of the places we put down.  I hope there are a
+1708 : few nice shops in Chamouni."  Mr. Ruck spoke with a certain quickened
+1714 : again and began to watch for his companions.  "Well, they ARE walking
+1722 : slowly and with a rather exhausted step and expression.  My companion
+1726 : "Well," said Mrs. Ruck, "I'm glad you've had some company."  Her
+1729 : prompted by a restless conscience.
+1731 : Miss Sophy glanced at me with her little straightforward air of
+1732 : defiance.  "It would have been more proper if WE had had the company.
+1734 : Mr. Ruck's companion.
+1748 : "We discovered the loveliest little lace-shop," observed the young
+1765 : how to wear lace in Europe.  I know how I mean to wear mine; but I
+1784 : "I'll hang it round YOU, if you don't look out!" cried Miss Sophy.
+1800 : daughter and at me.  "Well, I hope you'll improve," she said.
+1803 : hesitate, Sophy.  I don't care what you do now.  In for a penny, in
+1808 : Sophy to her father, "I wouldn't talk so much about pennies and
+1814 : silent; his companions got into their vehicle, the front seat of
+1826 : Old M. Pigeonneau had more than once proposed to me to take a walk,
+1833 : proposed we should bend our steps to the English Garden; no locality
+1839 : water.  We joined the strollers, we observed our companions, and
+1840 : conversed on obvious topics.  Some of these last, of course, were the
+1842 : Pigeonneau's comprehensive criticism, appeared surprisingly numerous.
+1844 : prettiest, and as this was an innocent game I consented to play at
+1847 : Suddenly M. Pigeonneau stopped, pressing my arm with the liveliest
+1853 : recognised Miss Sophy Ruck.  "Oh, la belle rencontre, nos aimables
+1862 : "I don't believe in French compliments," remarked this young lady,
+1865 : "Are you and Miss Ruck walking alone?" I asked of her companion.
+1871 : shoulder, she made her open parasol revolve.  "Which is most
+1872 : improper--to walk alone or to walk with gentlemen?  I wish to do what
+1873 : is most improper."
+1880 : "So I have always ventured to hope, my dear Miss Ruck."
+1890 : mission to place modesty at its ease.  This ill-assorted couple
+1893 : "I am sure this is more improper," said my companion; "this is
+1894 : delightfully improper.  I don't say that as a compliment to you," she
+1922 : "Oh, in every way.  For instance, I have to pretend to be a jeune
+1930 : "That's no pretence.  I am wise."
+1934 : My companion almost stopped, looking at me; there was a little flush
+1970 : sense of dissipation, seconded the proposal, and we presently sat
+1972 : place myself next to Aurora Church; our companions were on the other
+1987 : "You will keep me very busy, and people will think I am in a
+1994 : I assured myself that our companions were out of earshot, and that
+2003 : Mamma has always tried to prevent my knowing anything about it, and I
+2028 : and I shall be lectured by Madame Galopin."
+2032 : "His digne epouse.  Madame Galopin, for mamma, is the incarnation of
+2033 : European opinion.  That's what vexes me with mamma, her thinking so
+2034 : much of people like Madame Galopin.  Going to see Madame Galopin--
+2035 : mamma calls that being in European society.  European society!  I'm
+2037 : old.  Who is Madame Galopin--who thinks anything of her here?  She is
+2039 : mamma, I also know Europe better."
+2046 : "She thinks so, but half the people don't care for us.  They are not
+2049 : think the less of us; there are plenty of people like that.  Mamma
+2051 : could tell you all the dull, stupid, second-rate people I have had to
+2053 : Germans, French, Italians, Turks, everything.  When I complain, mamma
+2066 : his unenvied paternity to her guilty child's accomplice.  My movement
+2097 : to dine, you know, with Madame Galopin."
+2108 : Mr. Ruck pushed back his hat and scratched the top of his head.
+2109 : "Well, I don't know.  How would you like that, Sophy?"
+2111 : "Well, I never!" exclaimed Sophy, as Mrs. Church marched off with her
+2127 : in such a situation, is not to protest but to profit; and it was
+2132 : most cultivated understanding.  I found her in the salon a couple of
+2153 : always done, in my quiet little way.  I have gone through Europe on
+2169 : "Here comes the 'European society,' the poor daughter's bugbear," I
+2172 : have got acquainted with lots of people."
+2174 : Mrs. Church dropped her eyes a moment; and then, with considerable
+2175 : gravity, "I think the European pension system in many respects
+2183 : have been interested in European homes."
+2194 : "Tell me this," my companion rejoined, "are they fair examples?"
+2228 : doesn't value his European privileges.  He takes no interest.  He
+2241 : nothing else.  To get something in a shop that they can put on their
+2254 : imagination.  They have not an idea--even a worse one--to compete
+2257 : from home; his business is going to the dogs.  He is unable to stop
+2271 : Aurora were to go to stay with them, she might not even be properly
+2282 : "Pray, do you mean," asked my companion, softly, "that Aurora is a
+2299 : she would drop her afterwards."
+2301 : I complimented Mrs. Church upon her logical mind, but I repudiated
+2306 : Mrs. Church shook her head serenely, and smiled at my inappropriate
+2308 : mistake.  She is completely in error; she is wholly unadapted to the
+2321 : We must part company with this deplorable family.  If Mr. Ruck and
+2334 : As my companion offered me this information I perceived Mr. Ruck come
+2366 : exceptional opportunity."
+2369 : have more opportunities than I know what to do with.  I don't seem
+2389 : my brother had arrived in England, and proposed to me to meet him
+2391 : Europe.  "But my house empties itself!" cried the old woman.  "The
+2404 : company there was a very simple remedy; and at present elle fait ses
+2419 : iron bars at the silent empty street.  The prospect was not
+2421 : the distance, the door of the house open and throw a shaft of
+2423 : figure of a female, who presently closed the door behind her.  She
+2476 : possible that in her intense--her almost morbid-desire to put into
+2479 : irregular--something in which a sympathetic compatriot, as yet
+2481 : of this sympathetic compatriot, filled me with a sort of envy.  For
+2494 : "She has so perverted my mind, that when I try to be natural I am
+2511 : particular obligation to please you!"  And then she gave a clear
+2526 : "Fortunately, it is a cage that will open."  And I laid my hand on
+2529 : "Don't open it," and she pressed the gate back.  "If you should open
+2544 : what my companion said, and I had--absurd as it may appear--an
+2546 : seemed to me, for a moment, that to pass out of that gate with this
+2547 : yearning, straining, young creature, would be to pass into some
+2558 : Galopin has come to make his adieux to ces dames."
+2579 : SHE was a femme d'esprit, though she wished to pass for one.  Round,
+2583 : and the contour and complexion of a ripe peach, and if you venture to
+2588 : and you find it's a nature of the tropics! The women of duty look
+2595 : away in the afternoon; so that, having various duties to perform, I
+2596 : left M. Pigeonneau to his international comparisons.  Among other
+2601 : timidly expressed the hope that he had got better news from home;
+2623 : philosophic.  I was very sorry for him; I wanted to do something for
+2628 : those brilliant jewellers' shops for which Geneva is famous.  I
+2631 : was with my impending departure, and with my companion's troubles, I
+2636 : before the counter with an air of absorption, which sufficiently
+2637 : proclaimed their identity.  I hoped my companion would not see them,
+2638 : but as we came abreast of the door, a little beyond, we found it open
+2640 : immediately recognised his wife and daughter.  He slowly stopped,
+2647 : "It will be an opportunity," I remarked, as cheerfully as possible,
+2652 : wife.  Miss Sophy made no remark, but she took the bracelet from the
+2654 : an empty stool and looked round the shop.
+2673 : "It will be his own fault, then," Miss Sophy observed.
+2678 : Mr. Ruck was still looking round the shop, whistling in a very low
+2693 : it," said Miss Sophy.
+2697 : Mr. Ruck was still vaguely inspecting the shop; he was still
+2705 : "A satin case, and a nice one!" said Miss Ruck to the shopman.
+Number of lines matched : 306 

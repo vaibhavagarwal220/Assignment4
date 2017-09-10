@@ -1,0 +1,174 @@
+File Name is input/cantp10.txt 
+4 : Copyright laws are changing all over the world, be sure to check
+9 : electronic path open for the next readers.
+13 : This should be the first thing seen when anyone opens the book.
+15 : are carefully chosen to provide users with the information they
+21 : **Etexts Readable By Both Humans and By Computers, Since 1971**
+30 : As of 12/12/00 contributions are only being solicited from people in:
+86 : copyright notice is included.  Therefore, we usually do NOT keep any
+87 : of these books in compliance with any particular paper edition.
+101 : Most people start at our sites at:
+126 : to get any etext selected, entered, proofread, edited, copyright
+127 : searched and analyzed, the copyright letters written, etc.  This
+132 : If they reach just 1-2% of the world's population then the total
+138 : which is only about 4% of the present number of computer users.
+149 : Presently, contributions are only being solicited from people in:
+231 : your copy of this etext, even if you got it for free from
+235 : you may distribute copies of this etext if you want to.
+250 : Among other things, this means that no one owns a United States copyright
+251 : on or for this work, so the Project (and you!) can copy and
+253 : without paying copyright royalties.  Special rules, set forth
+254 : below, apply if you wish to copy and distribute this etext
+264 : things, Defects may take the form of incomplete, inaccurate or
+265 : corrupt data, transcription errors, a copyright or other
+266 : intellectual property infringement, a defective or damaged
+267 : disk or other etext medium, a computer virus, or computer
+287 : copy.  If you received it electronically, such person may
+288 : choose to alternatively give you a second opportunity to
+313 : You may distribute copies of this etext electronically, or by
+318 : [1]  Only give exact copies of it.  Among other things, this
+322 :      binary, compressed, mark-up, or proprietary form,
+336 :           no expense into plain ASCII, EBCDIC or equivalent
+341 :      [*]  You provide, or agree to also provide on request at
+342 :           no additional cost, fee or expense, a copy of the
+344 :           or other equivalent proprietary form).
+355 :      legally required to prepare) your annual (or equivalent
+365 : public domain materials, or royalty free copyright licenses.
+439 : dialogue a copy of it fell into the hands of Charles Darwin, possibly
+464 : probable that the copy of the PRESS which contained it was sent to
+472 : incorporated the substance into THE FAIR HAVEN.  Butler sent a copy
+525 : being all locked up, I took the opportunity to return to my old plan,
+526 : and have been studying for the last ten years unremittingly.  I hope
+540 : forth a contemptuous rejoinder from (I believe) the Bishop of
+545 : criticised by two or three whose opinion I thought worth having, and
+575 : appreciate the letter fully I ought to have read the bishop's letter,
+588 : to the fact that he had already had in his possession a copy of
+599 : authority Butler had for supposing that Charles John Abraham, Bishop
+610 : Darwin, and adopting a contemptuous tone with regard to the claims of
+617 : with such compelling force.
+642 : from point to point, till he conceived that he had made his case
+653 : F.  In my opinion it is a grave and wise one.  Moreover, I conceive
+700 : F.  Well, I assent to the justice of your demand, but I shall comply
+718 : the settlers from Europe.  Why were they so abundant?  Simply because
+728 : them wholesale.  The first proposition then to which I demand your
+765 : C.  Drop that chaff and go back to the matter in hand.
+799 : manner, and the alteration would have a tendency to perpetuate itself
+812 : The great agent in this development of life has been competition.
+842 : the other and then gluing them together with glue.  People will not
+851 : plants in a state of Nature are undergoing constant competition for
+864 : beneficial to the individual it is likely to preserve the individual
+873 : competition is a great power in Nature, and that changes of
+915 : minds just now is the Darwinian theory of the development of species
+920 : century.  We have all heard of his theory that man was developed
+926 : other popular theories of the present day in the works of Giordano
+933 : eclectic philosophers, from Plotinus and the Neo-Platonists, and
+937 : in Hindu cosmogonies.  Bruno's theory regarding development of
+940 : spiritual substance requires a proper subject to become a plant or an
+947 : consistent than modern philosophers; he recognised a downward
+948 : development as well as an upward, and made morality and immorality
+949 : the crisis and turning-point of change--a bold lion developed into a
+950 : brave warrior, a drunken sot developed into a wallowing pig, and
+958 : cerebral, he compounded man of each and all:-
+992 : The first is evidently the composition of a warm adherent of the
+999 : was but little versed in habits of literary composition and
+1000 : philosophical argument.  Yet he may fairly claim the merit of having
+1007 : to lead the few people that put their trust in them.  A few will
+1037 : development by natural selection is unwarranted by experience and
+1051 : hours with widely open mouth, thus catching--almost like a whale--
+1059 : Darwin supposes the whale to be developed from the bear by the latter
+1060 : having had a strong desire to possess fins.  This is disgraceful.
+1080 : either actually and completely as in the case of the first two,
+1085 : England.  Three months ago the theory of development by natural
+1086 : selection was openly supported by Professor Huxley before the British
+1088 : advocacy as a proof that Darwin is right (indeed, Owen opposed him
+1097 : forming a hurried opinion for or against the theory.  Naturalists in
+1098 : Europe are canvassing the matter with the utmost diligence, and a few
+1103 : men come forth and give us the benefit of their opinion.
+1122 : loophole if they are proved wrong.  I will, however, furnish him with
+1125 : "I am acquainted with a philosopher who, contemplating this subject,
+1130 : fins, and others claws, from their ceaseless efforts to procure their
+1149 : that the membrane-connected fingers and forearm of the galeopithecus
+1153 : a bat, fin of a porpoise, and leg of a horse, the same number of
+1176 : the smallest desire to make use of any loopholes to avoid being
+1188 : philosopher who thinks it not impossible that the first insects were
+1197 : developed from previous speculations which were all to a certain
+1212 : settlement, I would still ask, has the theory of natural development
+1220 : affirmative and to pooh-pooh all further discussion.
+1226 : have searched my copy of Darwin again and again to find anything
+1245 : modified his tone in his last letter, and really seems open to the
+1247 : reflection I have determined to give him the opportunity of doing me
+1256 : the black bear was seen by Hearne swimming for hours with widely open
+1265 : audacity of a writer who should adopt this style, when the words
+1268 : supply of insects were constant, and if better adapted competitors
+1320 : completely overthrows the commonly accepted theory that the mixed
+1324 : enumerated three examples of hybrids between two perfectly distinct
+1334 : but the above is worthy of notice.  My compliments to the "Savoyard."
+1362 : our pride and to make us think seriously of the future prospects of
+1367 : been developed, we mean to the lever itself, and if we then examine
+1369 : awestruck at the vast development of the mechanical world, at the
+1370 : gigantic strides with which it has advanced in comparison with the
+1379 : for as the vegetable kingdom was slowly developed from the mineral,
+1393 : exist in some few machines, feebly developed and perfectly useless,
+1405 : development and progress.  Take the watch for instance.  Examine the
+1407 : of the minute members which compose it; yet this little creature is
+1408 : but a development of the cumbrous clocks of the thirteenth century--
+1432 : shame, and sorrow will have no place among them.  Their minds will be
+1436 : The guilty conscience, the hope deferred, the pains of exile, the
+1442 : for nothing.  If they are out of order they will be promptly attended
+1465 : burying their dead or working up their corpses into new machines.  It
+1468 : countries were by some sudden catastrophe to be rendered perfectly
+1475 : machines have been developed in a manner which we are hardly yet able
+1478 : ultimately developed, inasmuch as man's interest lies in that
+1490 : energies of their whole lives to the development of mechanical life.
+1493 : inhabitants is what no person of a truly philosophic mind can for a
+1496 : Our opinion is that war to the death should be instantly proclaimed
+1508 : to the members of the Philosophical Society.  Should they consent to
+1537 : yet we are certainly liable about this time to such a prophetic
+1546 : clothes and the body.  A truth's prosperity is like a jest's, it lies
+1567 : and bad drop behind and perish.  There was a moral government of this
+1580 : forethought add extra-corporaneous limbs to the members of his own
+1598 : to perceive the moral government under which he held the feudal
+1600 : our poets and prophets still strive to symbolise it more and more
+1601 : completely.
+1607 : examining is comparable to the human hand.  The tail of an opossum is
+1624 : change in man's physical status, as compared with the elements around
+1638 : things would be completely ferae naturae and not men at all.  We are
+1639 : unable to point to any example of a race absolutely devoid of extra-
+1640 : corporaneous limbs, but we can see among the Chinese that with the
+1647 : It is a mistake, then, to take the view adopted by a previous
+1650 : They are to be regarded as the mode of development by which human
+1668 : the new limbs were preserved by natural selection and incorporated
+1682 : He grows more complex as he becomes older and he will then be seen
+1684 : but, if he be a really well-developed specimen of the race, he will
+1697 : yet see the philosophy of the thing, or admit that he who can tack a
+1711 : We admit that these last sentences are open to question, and we
+1715 : poets.  He alone possesses the full complement of limbs who stands at
+1716 : the summit of opulence, and we may assert with strictly scientific
+1729 : let us hope that he will grow plenty of limbs.  It must be remembered
+1737 : part of the question we should never have done, and we are compelled
+1761 : do not love to look on."  "But as 'tis," returns Prospero, "we cannot
+1763 : offices that profit us."  Hands were scarce, and Prospero was obliged
+1764 : to put up with Caliban in spite of the many drawbacks with which his
+1768 : what Miranda and Prospero had to say about him.  He may therefore
+1769 : pass for nobody.  Prospero was an old man, or at any rate in all
+1780 : consequence of her love for the Prince.  Prospero has set Ferdinand
+1781 : to hump firewood out of the bush, and to pile it up for the use of
+1790 : this divine creature compelled to such an ignominious and painful
+1792 : Caliban do it; let Prospero do it; or make Ariel do it; let her do it
+1794 : are enjoined to pile";--the logs themselves, while burning, would
+1803 : this particular passage lies simply in the fact that young people
+1808 : as it does now.  Let the Prosperos of that age take a lesson, and
+1809 : either not allow the Ferdinands to pile up firewood, or so to arrange
+1811 : It is true that Prospero's objection to the match was only feigned,
+1823 : a team of English cricketers, and have kindly been copied and sent to
+1835 : exchanged compliments and cricket balls across the table.  This early
+1853 : "You find not the apostrophes, and so miss the accent; let me
+1883 : Of honeyed wisdom.  So profound, so true,
+1939 : And every eye shall be a telescope
+1950 : {1}  We were asked by a learned brother philosopher who saw this
+1954 : tobacco pipe.  This organ was originally designed for the same
+1958 : have seen in very early tobacco pipes, this protuberance was of a
+1961 : upon the table.  Use and disuse have here come into play and served
+1964 : is owing to the more prompt action of the human selection as compared
+1965 : with the slower but even surer operation of natural selection.  Man
+Number of lines matched : 172 

@@ -1,0 +1,459 @@
+File Name is input/rmlav10.txt 
+7 : Copyright laws are changing all over the world, be sure to check
+8 : the copyright laws for your country before posting these files!!
+12 : electronic path open for the next readers.  Do not remove this.
+14 : *It must legally be the first thing seen when opening the book.*
+19 : **Etexts Readable By Both Humans and By Computers, Since 1971**
+50 : copyright notice is included.  Therefore, we usually do NOT keep any
+51 : of these books in compliance with any particular paper edition.
+67 : new copy has at least one byte more or less.
+74 : to get any etext selected, entered, proofread, edited, copyright
+75 : searched and analyzed, the copyright letters written, etc.  This
+80 : If these reach just 10% of the computerized population, then the
+86 : which is only ~5% of the present number of computer users.
+125 : for a more complete list of our various sites.
+156 : your copy of this etext, even if you got it for free from
+160 : you can distribute copies of this etext if you want to.
+176 : things, this means that no one owns a United States copyright
+177 : on or for this work, so the Project (and you!) can copy and
+179 : without paying copyright royalties.  Special rules, set forth
+180 : below, apply if you wish to copy and distribute this etext
+187 : things, Defects may take the form of incomplete, inaccurate or
+188 : corrupt data, transcription errors, a copyright or other
+189 : intellectual property infringement, a defective or damaged
+190 : disk or other etext medium, a computer virus, or computer
+210 : copy.  If you received it electronically, such person may
+211 : choose to alternatively give you a second opportunity to
+234 : You may distribute copies of this etext electronically, or by
+239 : [1]  Only give exact copies of it.  Among other things, this
+243 :      binary, compressed, mark-up, or proprietary form,
+257 :           no expense into plain ASCII, EBCDIC or equivalent
+262 :      [*]  You provide, or agree to also provide on request at
+263 :           no additional cost, fee or expense, a copy of the
+265 :           or other equivalent proprietary form).
+276 :      date you prepare (or were legally required to prepare)
+282 : free copyright licenses, and every other sort of contribution
+358 : Metropolitan Gypsyries
+389 : {Special Project Gutenberg note:  In this book a lot of non-European
+392 : If there's sufficient demand I'll try to produce an updated text with
+440 : a great gentleman; bori rani, a great lady.  There is properly no
+501 : designate, seldom very appropriately, some object for which they have
+502 : no positive name.  Engro properly means a fellow, and engri, which is
+507 : affixing engro to pov, earth, they have coined a word for a potato,
+515 : of finding names for objects, for which there are properly no terms
+517 : than the Gypsies are in the habit of carrying it:  a slack-rope
+519 : drawn-rope-dancing fellow; a drum, duicoshtcurenomengri, or a thing
+522 : the mouth.  All these compound words, however, would be more or less
+523 : indefinite, and far beyond the comprehension of the Gypsies in
+532 : such verbs as to hope, mean, hinder, prove, forbid, teaze, soothe.
+534 : Wallachian, properly means being trusted, and was incorporated in the
+536 : Wallachians, which they never intended to pay for.  There is the verb
+567 : feminine, bori and not boro should be employed.  The proper Gypsy
+570 : prepositions English.  The proper way of conjugating verbs is seldom
+578 : condition of the English Gypsy tongue; justice, however, compels me
+583 : three; moreover, however scanty it may be, it is far more copious
+585 : respect to copiousness it is inferior to the Spanish Gypsy, which is
+597 : proper words and features remain to form genuine Gypsy sentences,
+636 : not so ancient.  The piece is composed in a metre something like that
+659 : Adje, v. n.  To stay, stop.  See Atch, az.
+672 : An, v. a. imp.  Bring:  an lis opre, bring it up.
+682 : Apopli, ad.  Again.  Spanish Gypsy, Apala (after).  Wal. Apoi (then,
+689 : Artav / Artavello, v. a.  To pardon, forgive.  Wal. Ierta.  Span.
+696 : Asa / Asau, ad.  Also, likewise, too:  meero pal asau, my brother
+709 : Atch, v. n.  To stay, stop.
+711 : Atch opre.  Keep up.
+772 : Baulo, s.  Pig, swine.  The proper meaning of this word is anything
+854 : Bitcheno pawdel.  Sent across, transported.
+861 : is made to signify queen; e.g. Beluni de o tarpe (tem opre), the
+941 : Bucca naflipen, s.  Liver-complaint.
+945 : Buddigur, s.  A shop.  Span.  Bodega.
+947 : Buddikur divvus, s.  Shopping-day:  Wednesday, Saturday.
+1030 : Cato, prep.  To; more properly From.  Hun. Gyp. Cado.  Wal. Katre
+1067 : Chawhoktamengro, s.  Grasshopper.  See Hokta.
+1111 : lis tuley, fling it down; chiv oprey, put up.  Rus. Kyio (to forge,
+1244 : Coppur, s.  Blanket.  Rus. Kover (a carpet).  Wal. Kovor, id.
+1264 : Cost-engres, s. pl.  Branch-fellows, people of the New Forest,
+1272 : Crafni, s.  Button.  Ger. Knopf.
+1314 : Daya / Dieya, s.  Mother, properly nurse.  Sans. Dhayas (fostering).
+1324 : Del-oprey, v. a.  To read.
+1328 : Der.  An affix, by which the comparative is formed; e.g. Wafodu, bad:
+1347 : Deshko.  Eighteen (?):  deshko hori, eighteenpence; properly, Desh ta
+1434 : Drab, v. a.  To poison.  Wal. Otribi.
+1478 : Dur-dicki mengri, s.  Telescope.  Lit. far-seeing-thing.
+1492 : Dusta, a. s.  Enough, plenty:  dusta foky, plenty of people.  See
+1508 : En.  A kind of genitive particle used in compound words, being placed
+1515 : Engri.  A neuter affix, composed of the particles 'en' and 'gro,'
+1517 : there are no positive names in English Gypsy:  for example, yag-
+1558 : copper.
+1580 : and composed of the English 'for' and the Gypsy 'del.'
+1626 : Giv-engro puv, s.  Farm.
+1677 : Gudlo-pishen, s.  Honey-insect, bee.  See Bata.
+1682 : Guero, s.  A person, fellow, that which governs, operates.  Sans.
+1719 : Hatch, v. n.  To stay, stop.  See Adje, atch, az.
+1721 : Hatchi-witchu, s.  A hedgehog.  This is a compound word from the Wal.
+1723 : properly the prickly thing of the wood.  In Spanish Gypsy, one of the
+1771 : Horkipen, s.  Copper.  Hun. Gyp. Harko.
+1807 : which properly mean the circular journey which the sun has completed
+1829 : Jalno ando pawni, v. a.  I swim.  Lit. I go in water.
+1848 : man, a philosopher.
+1892 : Kakkaratchi, s.  Magpie; properly a raven.  Mod. Gr. [Greek:  ]
+1956 : Ken, s.  A house, properly a nest.  Heb. [Hebrew:  ] Kin.
+1980 : Kidda, v. a.  To pluck.
+2025 : Klop, s.  A gate, seemingly a cant word; perhaps a bell.  Wal.
+2026 : Klopot.
+2041 : Kore, v. a.  To hawk goods about, to cry out, to proclaim.
+2100 : Lescro, pro. poss.  His, belonging to him:  lescro prala, his
+2107 : Leste's.  His:  leste's wast, his hand; properly, lescro wast.
+2125 : Levinor-engri.  Hop.  Lit. ale-thing.
+2127 : Levinor-engriken tem.  Kent.  Lit. hop-country.
+2154 : Lou, pro.  It:  oprey-lou, upon it.  Wal. Lou.
+2208 : Mande's.  My.  Mande's wast, my hand; used improperly for miro.
+2263 : Mengro.  A word much used in composition.  See Engro and Mescro.
+2432 : Nai.  Properly Na hi, there is not:  nai men chior, we have no girls.
+2456 : Nashko, part. pass.  Hung:  nashko pre rukh, hung on a tree.
+2506 : Opral / Opre / Oprey, prep.  Upon, above.  Wal. Pre, asoupra.
+2527 : Padlo, ad.  Across:  padlo pawnie, across the water, transported.
+2549 : Pand opre, v. a.  To bind up.
+2615 : who prefers the company of the pallid Gentiles to that of the dark
+2640 : Pedloer, s.  Nuts; prop.  Acorns.  Pers.  Peleed.
+2653 : Pen, a particle affixed to an adjective or a verb when some property
+2679 : Pes / Pessa, v. a.  To pay.  Span. Gyp. Plaserar.  Rus. Platit.  Wal.
+2682 : Pes apopli.  To repay.
+2692 : Pias, s.  Fun.  Mod. Gr. [Greek:  ] (to play).
+2718 : Pishen, s.  Flea, any kind of insect:  guldo pishen, honey-insect,
+2751 : Gypsy, Plastani means a company which pursues robbers.
+2763 : Poknies, s.  Justice of the peace.  Rus. Pokoio (to pacify).
+2786 : Possey-mengri, s.  Pitchfork; improperly used for any fork.  The
+2794 : Poov, v.  To poov a gry, to put a horse in a field at night.
+2818 : Pucanar (to proclaim).  Hin. Pukar, pukarnar.
+2822 : Pureno, a.  Ancient, old:  pureno foky, the old people.  Sans. Purvya
+2980 : Sal, v. n.  To laugh; properly, he laughs.  Span. Gyp. Asaselarse.
+2995 : Sapnis, s.  Soap.  Mod. Gr. [Greek:  ]  Wal. Sipoun.
+3056 : Shello, s.  Rope.  Span. Gyp. Jele.
+3058 : Shello-hokta-mengro, s.  Rope-dancer.
+3218 : Sueti, s.  People.  Lithuanian, Swetas.
+3223 : (sleeping).  Lat. Sopitus.
+3240 : tardrad opre, the house is built; tard the chaw opre, pull up the
+3241 : grass.  Hin. Torna (to pluck).  Wal. Tratze.  Gaelic, Tarruinn.
+3243 : Tardra-mengre.  Hop-pickers.
+3276 : Te, prep.  To:  te lesti, to her; this word is not properly Gypsy.
+3278 : Te, conjunct.  That:  te jinnen, that they may know, an optative
+3329 : dieyas nav--Truffeni Lovel, the name of John Cooper's mother.  Mod.
+3334 : Trupo, s.  Body.  Wal. Troup.  Rus. Trup
+3425 : Wardo-mescro, s.  Carter, cartwright, cooper, name of a Gypsy tribe.
+3519 : Zoomi, s. f.  Broth, soup.  Mod. Gr. [Greek:  ]  Wal. Zamie (juice).
+3522 : various races, a made-up person.  Sans. Sangkara, compositus (made-
+3533 : To pee and hal,
+3542 : To pek and tove,
+3545 : To tardra oprey,
+3547 : To pes and gin,
+3549 : To pootch and pukker,
+3558 : To pand and wustra,
+3563 : To pen and sikker,
+3605 : Mi Dovvel opral, dick tuley opre mande.
+3618 : Kekkeno pawni dov odoi.
+3622 : Wafudu lavior you do pen, miry deary Dovvel.
+3638 : Pes apopli.
+3639 : Chiv'd his vast adrey tiro putsi.
+3702 : Drey the sherripen Midibble kair'd the temoprey ta the puv;
+3704 : Ta temnopen was oprey the mui of the boro put.
+3705 : Ta Midibble's bavol-engri besh'd oprey the panior;
+3708 : Ta Midibble chinn'd enrey the dute ta the temnopen;
+3709 : Ta Midibble kor'd the dute divvus, ta the temnopen kor'd yo rarde;
+3729 : And he chiv'd his koshto rokrapen opreylen:
+3736 : Then was sarla ta sorlo panschto divvus.
+3745 : And he chiv'd his koshto rokrapen opreylen:
+3750 : And oprey sore the puvo be krallior,
+3753 : And oprey the chiricles of the tarpe,
+3754 : And oprey soro covar that's jibbing
+3761 : Meery dearie Dad, sauvo jivves drey the tem oprey, be sharrafo teero
+3762 : nav, te awel teero tem, be kedo sore so caumes oprey ye poov, sar
+3763 : kairdios drey the tem oprey.  Dey man to divvus meery divvuskey
+3767 : tem, Mi-dibble, teero o ruslopen, ta yi corauni knaw ta ever-komi.
+3774 : Apasavello drey Mi-dovel; Dad sore-ruslo savo kerdo o praio tem, ta
+3777 : the wast of Poknish Pontius Pilatos; was nash'd oprey ye Trihool; was
+3779 : tan, bengeskoe starriben; ta prey ye trito divvus jall'd yo oprey ke
+3781 : wast, Dad sore-ruslo; cad odoy avellava to lel shoonapen oprey jibben
+3784 : mestepen kettaney; that Mi-dibble will fordel sore wafudopenes; that
+3793 : nav; te avel catari tiro tem; te keren saro so cames oppo puv, sar
+3800 : Te del amen o gulo Del eg meschibo pa amara choribo.
+3844 : had kek yeckly to muk the Romano they had lell'd opre, jal his drom,
+3853 : When yeck's tardrad yeck's beti ten oprey, kair'd yeck's beti yag
+3855 : oprey lis, yeck kek cams that a dikkimengro or muskerro should wel
+3856 : and pen:  so's tute kairing acai?  Jaw oprey, Romano juggal.
+3859 : kitchema, prey the chong opral Bororukeskoe Gav, drey the Wesh, tute
+3862 : Jinnes tu miro puro prala Rye Stanniwix, the puro rye savo rigs a
+3872 : jin the drom they have jall'd by:  we wusts wastperdes of chaw oprey
+3874 : trihool oprey the chik, or we chins ranior tuley from the rukhies,
+3875 : and chivs lende oprey drey the puv aligatas the bor; but the tatcho
+3882 : The mush savo kek se les the juckni-wast oprey his jib and his zi is
+3885 : The lil to lel oprey the kekkeno mushe's puvior and to keir the
+3896 : rokrapen chiv'd by the zi oprey the trupo.
+3902 : Jack Vardomescro could del oprey dosta to jin sore was oprey the mea-
+3905 : The Romano drom to pek a chiriclo is to kair it oprey with its porior
+3915 : a gorgio, and chived the mulo mas tuley the poov; he was lell'd oprey
+3921 : cocoro, he would dick over his tatcho pikko and his bango pikko, to
+3937 : lovvu, or wafor covars from lescro prala in parriken, ta kek pess'd
+3938 : leste apopli, could be kair'd to buty for leste as gry, mailla or
+3941 : ta kek pessed mande apopli, sar estist for mande te kair leste buty
+3946 : you might chiv lis sore drey teero putsi.
+3948 : Kek jinnipenskey covar se to pen tute's been bango.  If tute pens
+4008 : chi; but it kairs mande diviou to pentch that he was bitcheno, all
+4025 : Shoon the kosko rokkrapen so Micail jinney-mengro penn'd ke Rawnie
+4026 : Trullifer:  Rawnie Trollopr, you must jib by your jibben:  and if a
+4041 : The young people often ask:  What good is there in the Romany tongue?
+4043 : and plenty, plenty of our people would have been transported or hung,
+4063 : Forest, you will see many Roman people, men and women, lads and
+4083 : fit to go into company.
+4086 : people die of hunger and cold, has been flung out of the House of
+4091 : full of stolen property.
+4098 : When the rope was about his neck they brought him his pardon, and let
+4100 : he said it brought to his mind the rope about his neck.
+4102 : Jack Cooper could read enough to know all that was upon the
+4106 : clay, and then to put it in fire for a little more than half an hour.
+4108 : belly cut open, and the inside flung out, 'tis a food good enough for
+4144 : have been wrong, people will say:  You may be a very honest fellow,
+4152 : When Roman people speak to one another, they say brother and sister.
+4171 : Do you know Mrs. Cooper?
+4189 : Mrs. Cooper; it is impossible not to have your fortune told by her;
+4190 : she's a true witch; she takes people by the hand, and tells their
+4220 : Trullifer:  Mrs. Trollopr, you must live by your living; and if you
+4237 : Bitcheno padlengreskey tem    Transported fellows' country, Botany
+4241 : Boro-rukeneskey gav           Great tree town, Fairlop
+4258 : Levin-engriskey tem           Hop country, Kent
+4298 : puro, he penn'd that he was sho pire sore but an inch boro, ta
+4316 : Paris.  After the chingaripen, he had lell'd oprey skamminengring,
+4332 : penn'd that his dadeskoe dad was a fino puro mush, savo had dick'd
+4336 : tatchipen to pen there was a cheeros when his drom was dur from
+4338 : but that kanau he was a wafu mush, that he had muk'd sore curopen and
+4342 : congri or Tabernacle, and that tho' he kek jinn'd to del oprey he
+4343 : camm'd to shoon the Miduveleskoe lil dell'd oprey to leste; that the
+4344 : panishkie ryor held leste drey boro camopen, and that the congriskoe
+4345 : rashi, and oprey sore Dr. P. of the Tabernacle had a boro opinionos
+4347 : moro Araunyo Jesus drey the kosko tem opral.  Mande putch'd whether
+4349 : well'd knau and then to pen Koshto divvus and Sarshin? but dov' odoy
+4352 : camopen, ta oprey sore bute envyous; that drey the wen they jall'd
+4354 : pukker'd the ryor to let lester a coppur which the ryor had lent
+4355 : leste, to kair tatto his choveno puro truppo drey the cheeros of the
+4358 : aladge of their cocore, but that it was kek misto to pensch that yeck
+4388 : the genuine, ancient name of the Wallachian tongue and people.  He
+4414 : and that a great many people came to hear his stories of the old
+4425 : and, above all, Dr. P. of the Tabernacle had a high opinion of him,
+4431 : people, full of wickedness and left-handed love, and, above all, very
+4438 : think that one was of the same blood as such people.  After some time
+4453 : merr'd, mukking leste yeck chavo.  Artaros caum'd to jal oprey the
+4460 : My chavo's chavo is lell'd oprey, deya.
+4461 : What's he lell'd oprey for?
+4483 : Gypsies in every part of Continental Europe.]
+4530 : A Cooper for my father!
+4675 : Is no pleasant thing, I trow."
+4730 : So penn'd I to miro Romany chi,
+5077 : En ropa callarda,
+5078 : En ropa callarda.
+5134 : "Y opre de la jestari
+5159 : To the turret's top she mounted,
+5161 : To the turret's top she mounted
+5192 : The whole reg'mental corps,
+5193 : The whole reg'mental corps.
+5195 : "Six neat and proper soldiers,
+5197 : Six neat and proper soldiers
+5251 : Ley teero sollohanloinus opreylis!
+5262 : If they would hope
+5263 : With their foes to cope
+5284 : they say "Pal" and "Pen"; that is, brother and sister.  All people
+5312 : the Courts of Europe, must certainly have been a remarkable man; so,
+5313 : no doubt, here at home was Boswell; so undoubtedly was Cooper, called
+5318 : the Gypsy man, even when trying to pass off a foundered donkey as a
+5319 : flying dromedary, in comparison with that of the female Romany,
+5333 : about, and terrible laws were enacted against people "using the
+5338 : entertained that they harboured amidst their companies priests and
+5340 : sedition and inducing the people to embrace again the old discarded
+5343 : not in the habit of admitting to their fellowship people of a
+5345 : however, a description of wandering people at that time, even as
+5350 : occasionally did associate--the people called in Acts of Parliament
+5352 : and in the modern Pikers.  These people have frequently been
+5356 : Gypsies are a people of Oriental origin, whilst the Abrahamites are
+5357 : the scurf of the English body corporate.  The language of the Gypsies
+5360 : composed for the most part of low English words used in an
+5365 : wandering companies it must have been with these people, who admit
+5376 : to themselves--they are not an ambitious people, and there is no word
+5378 : them.  A people called Gypsies are mentioned, and to a certain extent
+5396 : themselves with those of other people.  A yet more extraordinary
+5412 : creature, who had charged people with doing what they neither did nor
+5417 : her away with goods, the sale of which enabled her to purchase her
+5431 : accomplished swindlers in the world, their principal victims being
+5432 : people of their own sex, on whose credulity and superstition they
+5435 : pretence of propitiating certain planets by showing them the money.
+5464 : people rest for the soles of their feet.  That force is the Rural
+5496 : population.
+5514 : There are only two names of trades which have been adopted by English
+5515 : Gypsies as proper names, Cooper and Smith:  these names are expressed
+5519 : truth, it would be next to impossible to render the word 'cooper'
+5520 : into English Gypsy, or indeed into Gypsy of any kind; a cooper,
+5523 : vessels.  The Transylvanian Gypsies call a cooper a bedra-kero or
+5525 : Gypsies might with equal propriety call a cooper a pail-engro.  On
+5527 : 'cooper' into their language by the word for 'cartwright.'
+5550 : character, and it seems at first surprising that people so poor and
+5556 : heaths and amid their woodlands, and that they eventually adopted the
+5560 : BOSWELL.--The proper meaning of this word is the town of Bui.  The
+5578 : The Gypsies who adopted it, rendered it into their language by Gry, a
+5594 : hairy people; the translator or translators seeming to have
+5610 : family crest.  At first the writer was of opinion that the name was
+5626 : town.  The Gypsies, who adopted it, seem to have imagined that it had
+5633 : adopted it:  Cama, if all tales be true, was black, black though
+5651 : Pembroke.  The Gypsies who adopted the name seem in translating it to
+5652 : have been of opinion that it was connected with marshes, for they
+5662 : Bungyoror and Chikkeneymengre, cork-fellows and china people, which
+5671 : Boswells.  It was adopted by an English Gypsy tribe, at one time very
+5698 : Gypsies are words, some simple and some compound, which are evidently
+5706 : been accomplished is as follows:  Poncio bears some resemblance to
+5709 : rather a stone pillar, from the top of which the waters of a fountain
+5716 : heterogeneous materials of which Gypsy dialects are composed:  Brono
+5721 : whatever materials composed, a fine-sounding name is this same Brono
+5740 : first observed in Europe, and they have never relinquished the
+5745 : something spiritual or ghostly.  In Eastern European Gypsy, the Holy
+5796 : Gypsy females have told fortunes to higher people than the young
+5846 : defrauding of some simple person of money or property being the
+5888 : some goldsmith's shop, at the window of which she has observed a
+5897 : give me back my coin, and I will compare any you have with it."  The
+5903 : and do not wish to put my hand into your basin.  Oh! if I could find
+5907 : hope of profit, takes a handful of coins from the basin and puts them
+5931 : Testament, and signifying to bend, stoop down, incurvare.
+5939 : What may be called the grand Metropolitan Gypsyry is on the Surrey
+5941 : about a quarter of a mile from the river, is an open piece of ground
+5946 : proprietor, or which the proprietor, for some reason, makes no use of
+5950 : is the principal place of residence of the Metropolitan Gypsies, and
+5951 : of other people whose manner of life more or less resembles theirs.
+5955 : there for a few hours on their way through the metropolis; for the
+5963 : money by picking hops.  As soon, however, as the rains, the
+5971 : on the water-horror, for which no European knows a remedy.  The
+5972 : following is an attempt to describe the odd people and things to be
+5981 : small, belonging to poor old females who have lost their husbands,
+6010 : Chumomescroes and Vardomescroes, or Lees, Boswells and Coopers, and
+6012 : fellows, somewhat below the middle height.  Their complexions are
+6024 : opportunity to dukker some credulous servant-girl.  It is hard that
+6039 : Cooper, the wife of Jack Cooper, the fighting Gypsy, once the terror
+6041 : Country Dick to pieces, and killed Paddy O'Leary, the fighting pot-
+6050 : property, down to the very blankets which she lay upon; and who
+6074 : something mournful in it, to visit Mrs. Cooper after nightfall, to
+6094 : her, on account of his numerous family.  Farewell, Mrs. Cooper, true
+6111 : The famous Gypsy Cooper.
+6113 : Who pick'd a lady's pocket;
+6121 : days at a time.  It belongs to a Gypsy female who, like Mrs. Cooper,
+6122 : is a remarkable person, but is widely different from Mrs. Cooper in
+6123 : many respects.  Mrs. Cooper certainly does not represent the beau
+6145 : Fairlop, on the first Friday of July, in the evening, she may be
+6156 : an incomprehensible being! nobody can make her out; the writer
+6196 : croming or bending towards the top, are stuck in the ground at about
+6204 : inches high, or a little trench about the same depth, to prevent
+6223 : which are generally of copper, to which, however, may perhaps be
+6230 : cask or barrel, the proper name for which is bedra, though it is
+6245 : horse or perhaps a couple of donkeys.  It is about twelve feet long
+6246 : by six broad and six high.  At the farther end are a couple of
+6257 : more than the tents, which seem to be the proper and congenial homes
+6260 : The mode of life of these people may be briefly described.  They have
+6264 : kind of tea or soup of the tender leaves of a certain description of
+6278 : and who far exceed the Gypsies in number.  To pass them by without
+6289 : or the material of which mops are composed.  Their complexions, when
+6302 : fortune-telling line--pretty prophetesses!  The fellows will
+6318 : various common articles, such as mats, brooms, mops, tin pans and
+6330 : Lastly come the Hindity-mengre, or Filthy People.  This term has been
+6347 : purpose.  Many an ancient Corporal Trim, alter having spent all his
+6360 : workers, to servant girls and the wives of small shopkeepers, and not
+6362 : the honourable profession of ring-dropping.
+6364 : What is ring-dropping?
+6366 : Ring-dropping is this.  A gentleman overtakes you as you are walking
+6368 : fifteen yards stops, and stooping down, seemingly picks up something,
+6377 : which was probably dropped by some goldsmith's man, is, as you see,
+6378 : two pound fifteen; however, as I am in a hurry, you shall only give
+6381 : ring-dropping, to which many silly but greedy individuals, fall
+6384 : worth sixpence.  The best thing you can do in such a case is to put
+6387 : cabalistic word "hookey"; in either case the ring-dropper will at
+6388 : once drop astern, with a half-stifled curse, for he knows that he has
+6393 : every step, perhaps concluding at last, as a ring-dropper once did to
+6453 : any one of a philosophical mind to be acquainted with him, and to
+6456 : competent to fill the chair of theology at the University of
+6489 : only a small part of the enormous metropolis, can show more beautiful
+6496 : find yourself amongst a number of low, uncouth-looking sheds, open at
+6503 : will see, on your right hand, a little, open bit of ground, chock-
+6517 : Gypsies, "long-established people, of the old order."  Amongst them
+6518 : are Ratzie-mescroes, Hearnes, Herons, or duck-people; Chumo-mescroes
+6521 : Baulo Tem, or Hampshire, which is the proper home of the Stanleys,
+6528 : people; and, speaking of the Hearnes, it is but right to say that he
+6541 : metropolitan district, indeed, could be well more suited for Gypsies
+6543 : brickfields, open spaces, poor streets inhabited by low artisans,
+6554 : please the Gypsies and wandering people, who find many places within
+6575 : Of the open spaces above mentioned, the most considerable is one
+6583 : a kettle.  It is a great resort of vagrant people, less of Gypsies
+6612 : obedience their sister's lord and husband, listening uncomplainingly
+6630 : small people, such as market-gardeners, travellers, show-folks, and
+6632 : horse, or to sell a horse, or to swop a horse, goes to Mr. G., and
+6633 : has never reason to complain, for all acknowledge that he has done
+6635 : overreaching him, which indeed very few people try to do, deterred by
+6637 : writer the following striking illustration: --"He will jal oprey to a
+6654 : for skewers, whereas the Lees are natives of the metropolis or the
+6666 : Before quitting the subject of Metropolitan Gypsies there is another
+6671 : people of all kinds of strange races,--the wildest Irish; Greeks,
+6678 : the other strange, odd people to be disposed of on some other
+6685 : of Popery, where a set of fellows lived in laziness and luxury on the
+6686 : offerings of foolish and superstitious people, who resorted thither
+6697 : garotters, passers of bad money, and other disreputable people,
+6700 : in their sight, from its not affording open spaces where they can
+6705 : from Essex and other counties east of the metropolis.  There is
+6722 : pomp, in the neighbouring churchyard.  They were both of pure Gypsy
+6748 : that if any of his people became Gorgios he would kill them.  He had
+6771 : compelled to quit her Christian friends, and said that she wished she
+6790 : namely a mint of money, which she hoped shortly to have in her own
+6795 : grand ambition was to be a great man among his people, a Gypsy King.
+6806 : with which he was supplied by certain honest tradespeople of
+6815 : could dukker--that is, tell fortunes--to perfection, by which alone
+6817 : She was good at the big hok, that is, at inducing people to put money
+6818 : into her hands, in the hope of its being multiplied; and, oh dear!
+6835 : Things went on swimmingly for a great many years, but, as prosperity
+6885 : Shuri uttered no cry or complaint, only mumbled:
+6897 : she had been, and her jaw, which was never properly cured, pained her
+6945 : prophecy of his other wife that he would never thrive.  At the end of
+6947 : under the arches of the railroad, and loiter about beershops.  At
+6950 : spirit.  A Methodist came and asked him, "What was his hope?"  "My
+6951 : hope," said he, "is that when I am dead I shall be put into the
+6953 : may be observed, is the last hope of every genuine Gypsy.  His hope
+6957 : the "Arches," not to divide his property amongst them, and to quarrel
+6961 : of its skin.  They then broke the caravan and cart to pieces, making
+6964 : dashed his mirrors, china, and crockery to pieces, hacked his metal
+6969 : airs, and last, and not least, for having been the composer of
+7000 : about seven miles.  It is comparatively modern, and sprang up when
+7018 : strangely in appearance, manner, and language from the people who
+7023 : houses on three sides, but open on the fourth, or right side to the
+7029 : the street opens upon the square without seeing any other human
+7032 : of the Green.  It came to pass that late one Saturday afternoon, at
+7034 : the street opens on this Green, or imperfect square.  My eyes were
+7135 : far as to say that they merely crowned her queen in hopes of bringing
+7141 : you, when you get to the speech of the queen, not to put any
+7154 : broad Scotch.  Some people say that they have a language of their
+7165 : had a cap on her head, from which depended a couple of ribbons, one
+7167 : smooth face, and her complexion was brown, or rather olive, a hue
+7210 : She stopped her knitting for a moment, and appeared to consider, and
+7217 : ajar.  She pushed it open, and looked in; then, turning round, she
+7294 : "Oh, it is," said I; "and yet you tried to persuade me that you had
+7295 : no peculiar language of your own, and only knew English and Scotch:
+7303 : to put a few questions to you, in order to gather from your answers
+7331 : gun; at least the proper word, which is lost.  They have a word--yag-
+7339 : puschca is the proper word for a gun, and not yag-engro, which may
+7350 : "Aye," said the Gypsy; "what is Nokkum?  Our people here, besides
+7362 : doubt that your people call themselves Nokkum because they are in the
+7393 : was quite wrong there; for that neither she nor any one of her people
+7429 : in the east of Europe.  Another was calches, a Wallachian word
+7438 : had always been the principal people among them.  I asked her if she
+7449 : heard of him.  He married one of our people."  "He did so," said I,
+7470 : done, not by the Nokkums, but by other Gypsies, with whom her people
+7481 : own people, and in England with the Lees and Bosvils."
+7484 : with them at Fairlop Fair, in the Wesh."
+7492 : company, and the nightingales, and cuckoos, and Romany chals and
+7496 : hill above Fairlop, on the day of Fairlop Fair.  It is their
+7498 : parts of England, and there they whoops, dances, and plays; keeping
+7522 : with intelligent and rather delicate features.  Her complexion was
+7585 : "Are you of her people?" said I.
+7605 : They were a hard, sullen, cautious set, in whom a few drops of Gypsy
+7640 : the streets of the metropolis.  By the bye, how is it that the
+7656 : wretched one, trudged away to Dryburgh to pay my respects at the tomb
+Number of lines matched : 457 

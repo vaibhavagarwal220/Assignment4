@@ -1,0 +1,51 @@
+File Name is input/ceirg10.txt 
+6 : Copyright laws are changing all over the world, be sure to check
+11 : electronic path open for the next readers.
+15 : This should be the first thing seen when anyone opens the book.
+17 : are carefully chosen to provide users with the information they
+23 : **Etexts Readable By Both Humans and By Computers, Since 1971**
+32 : As of 12/12/00 contributions are only being solicited from people in:
+81 : copyright notice is included.  Therefore, we usually do NOT keep any
+82 : of these books in compliance with any particular paper edition.
+96 : Most people start at our sites at:
+121 : to get any etext selected, entered, proofread, edited, copyright
+122 : searched and analyzed, the copyright letters written, etc.  This
+127 : If they reach just 1-2% of the world's population then the total
+133 : which is only about 4% of the present number of computer users.
+144 : Presently, contributions are only being solicited from people in:
+226 : your copy of this etext, even if you got it for free from
+230 : you may distribute copies of this etext if you want to.
+245 : Among other things, this means that no one owns a United States copyright
+246 : on or for this work, so the Project (and you!) can copy and
+248 : without paying copyright royalties.  Special rules, set forth
+249 : below, apply if you wish to copy and distribute this etext
+259 : things, Defects may take the form of incomplete, inaccurate or
+260 : corrupt data, transcription errors, a copyright or other
+261 : intellectual property infringement, a defective or damaged
+262 : disk or other etext medium, a computer virus, or computer
+282 : copy.  If you received it electronically, such person may
+283 : choose to alternatively give you a second opportunity to
+308 : You may distribute copies of this etext electronically, or by
+313 : [1]  Only give exact copies of it.  Among other things, this
+317 :      binary, compressed, mark-up, or proprietary form,
+331 :           no expense into plain ASCII, EBCDIC or equivalent
+336 :      [*]  You provide, or agree to also provide on request at
+337 :           no additional cost, fee or expense, a copy of the
+339 :           or other equivalent proprietary form).
+350 :      legally required to prepare) your annual (or equivalent
+360 : public domain materials, or royalty free copyright licenses.
+369 : [Portions of this header are copyright (C) 2001 by Michael S. Hart
+527 : Ceiriog, gan adael allan bopeth lle na welir y bardd ar ei oreu.  Y
+848 :    Ar gopa Clawdd Offa gosodais fy nhraed;
+1081 :    Yn rhoi popeth yn fy llaw;
+1102 : deyrnas, fod llwyth o Indiaid Cymreig yn preswylio parth o'r America
+1223 : alluog, oddiwrth yr engreifftiau sydd gennyf, i roi barn nac opiniwn
+1412 :    Ond tybiodd fod popeth yn hyfryd a hardd -
+1828 : Llances y Dyffryn wnaeth bopeth yn iawn,
+1835 : Llances y Dyffryn wnaeth bopeth yn iawn.
+1844 : Llances y dyffryn wnaeth bopeth yn iawn.
+2206 : Cydgan:  Rhown bopeth sydd hardd ac anfarwol,
+3043 : Gorphwysa fy nghyfaill yn ngwychder dy fedd,
+3121 : Yna dringo pen y bryn,
+3607 : Cerddorion Ewrop ddont
+Number of lines matched : 49 
